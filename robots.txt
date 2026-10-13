@@ -1,6 +1,6 @@
 User-agent: *
 Allow: /
-Disallow: /booth
-Disallow: /booth/
+Disallow: /qr
+Disallow: /qr/
 
 Sitemap: https://arribatt.com/sitemap-index.xml
