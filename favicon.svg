@@ -1,3 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-  <rect width="32" height="32" rx="8" fill="#2F5D8A" />
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M19.9 22.36C16.82 23.51 11.08 27.12 9.17 29.01L12.06 21.93C15.35 20.8 18.97 20.41 20.31 20.43C26.71 20.33 29.15 20.93 28.67 21.05C28.19 21.17 22.98 21.22 19.9 22.36Z" fill="url(#icon_grad_0)"/>
+  <path d="M2.57 29.02H9.17L19.54 3.5H14.43L2.57 29.02Z" fill="url(#icon_grad_1)"/>
+  <path d="M30.41 29.04H23.34L16.84 9.99L19.54 3.5L30.41 29.04Z" fill="url(#icon_grad_2)"/>
+  <defs>
+    <linearGradient id="icon_grad_0" x1="10.61" y1="27.22" x2="26.57" y2="20.88" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2A3847"/>
+      <stop offset="0.972" stop-color="#4A5481"/>
+    </linearGradient>
+    <linearGradient id="icon_grad_1" x1="5.65" y1="28.92" x2="16.33" y2="4.0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#343F68"/>
+      <stop offset="0.966" stop-color="#2B81B1"/>
+    </linearGradient>
+    <linearGradient id="icon_grad_2" x1="23.61" y1="3.5" x2="23.61" y2="28.85" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#344069"/>
+      <stop offset="1" stop-color="#2B80B0"/>
+    </linearGradient>
+  </defs>
 </svg>
