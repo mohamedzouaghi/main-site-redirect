@@ -1,0 +1,15 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="18.8" height="18.8" viewBox="0 0 18.8 18.8" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Atlassian mark" clip-path="url(#clip0_0_194)">
+<path id="Vector" d="M5.37144 10.0714C5.10286 9.73568 4.70001 9.80282 4.49858 10.2057L0.671436 18.1285H6.44572C6.78144 18.1285 7.11715 17.9271 7.25144 17.5914C8.59429 14.9057 7.78858 11.0785 5.37144 10.0714Z" fill="url(#paint0_linear_0_194)"/>
+<path id="Vector_2" d="M10.6085 2.34998C8.32569 5.90855 8.52712 9.86998 10.0043 12.8243L12.6228 17.7257C12.7571 17.9943 13.0257 18.1285 13.2943 18.1285H18.5314L11.3471 2.28283C11.2128 1.94712 10.81 1.94712 10.6085 2.34998Z" fill="#2684FF"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_194" x1="7.99001" y1="11.6828" x2="2.95429" y2="20.3443" gradientUnits="userSpaceOnUse">
+<stop stop-color="#0052CC"/>
+<stop offset="0.92" stop-color="#2684FF"/>
+</linearGradient>
+<clipPath id="clip0_0_194">
+<rect width="18.8" height="18.8" fill="white"/>
+</clipPath>
+</defs>
+</svg>
