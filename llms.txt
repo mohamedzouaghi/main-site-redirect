@@ -1,0 +1,78 @@
+# AR-RIBATT (شركة الرباط)
+
+> Saudi technology consultancy founded in 2019, delivering digital transformation, AI, cloud and DevOps, cybersecurity, agile transformation, training, and its own AI-powered software products for government and private-sector organizations in Saudi Arabia and the region.
+
+AR-RIBATT (شركة الرباط — "حلول فعالة وناجعة") is a technology consultancy headquartered in Saudi Arabia, with presence in the UAE and the United States. The public site is Arabic-first at https://arribatt.sa/ (RTL) with an English route at https://arribatt.sa/en/. Canonical domain: arribatt.sa. Saudi commercial registration (السجل التجاري): 7053815671.
+
+AR-RIBATT combines strategy consulting with hands-on delivery: it assesses digital maturity, designs roadmaps, implements platforms (cloud, DevOps, Atlassian, security), runs managed 24/7 operations, and trains client teams. It is an equal-opportunity employer operating under the Saudi Labor Law and localization (Saudization) requirements.
+
+## Site
+
+- [Home (Arabic)](https://arribatt.sa/): Primary landing page — expertise, partners, services, clients, testimonials
+- [Home (English)](https://arribatt.sa/en/): Same page, LTR
+- [Sitemap](https://arribatt.sa/sitemap-index.xml)
+- [Privacy policy](https://ar-ribatt.atlassian.net/wiki/spaces/EXTSUP/pages/3735561/Privacy+Policy+for+Atlassian+Marketplace+Apps): Privacy policy for AR-RIBATT's Atlassian Marketplace apps
+
+## Contact and booking
+
+- Email: contact@arribatt.com
+- Saudi Arabia: +966 50 096 3405
+- UAE: +971 52 802 6716
+- USA: +1 646-980-4909
+- [Book a consultation (احجز استشارتك)](https://calendly.com/m-alzouaghi-arribatt/meet-with-arribatt)
+- [LinkedIn](https://www.linkedin.com/company/arribatt/)
+- [Careers (انضم إلينا)](https://qr.arribatt.sa/?id=form-1)
+- [Become a supplier (انضم كمورّد)](https://qr.arribatt.sa/?id=form-3)
+
+## Expertise (خبراتنا)
+
+- Digital transformation and AI (التحول الرقمي والذكاء الاصطناعي): AI adoption roadmaps, prioritization, data and AI platforms, moving from ambition to measurable results
+- Cloud and DevOps (الحوسبة السحابية DevOps): seamless cloud migration, CI/CD and automation for faster, more reliable infrastructure
+- Agile / organizational transformation (التحول المؤسسي المرن): Agile and Scrum adoption to accelerate delivery and raise team efficiency
+- Cybersecurity and data protection (الأمن السيبراني وحماية البيانات): proactive security solutions and round-the-clock monitoring of data and systems
+
+## Services (خدماتنا)
+
+- Consulting: strategy, digital-maturity assessments, roadmaps
+- Professional services: systems integration, cloud migration, secure software engineering
+- Managed services: 24/7 infrastructure and cybersecurity operations
+- Enablement and training: Agile, Scrum, and capability-building workshops
+
+## Products (منتجاتنا)
+
+AR-RIBATT products and the platforms it deploys and supports for clients:
+
+- Kurasa AI — AI tender advisor (مستشار المناقصات الذكي): generates government tender specification documents (كراسات الشروط) and evaluates bids automatically, with 100% data sovereignty inside the Kingdom and compliance with national regulations (DGA, NCA)
+- Security Next-Gen — AI-powered cybersecurity (SIEM): advanced analytics, automation, and AI-driven insights to detect and respond to cyber threats
+- VCM — Vendor and contract management (إدارة الموردين والعقود): centralizes supplier management and automates contract tracking
+- SCM — Support contract management (إدارة عقود الدعم والصيانة): tracks support and maintenance contracts and service levels in one place
+- Jira — AI-assisted agile project management (إدارة المشاريع بالذكاء الاصطناعي)
+- Jira Service Management — AI-powered IT service management (إدارة الخدمات التقنية)
+- Confluence — AI knowledge management and team collaboration (إدارة المعرفة)
+- Jira Product Discovery — innovation lifecycle management (إدارة دورة الابتكار): turn early ideas into prioritized projects
+- Jira Align — enterprise strategy management (إدارة الاستراتيجية الرقمية): connects business strategy to technical execution
+
+## Technology partners (شركاؤنا التقنيون)
+
+GitLab, Google Cloud, Atlassian, paymob, BrowserStack, Databricks
+
+## Selected clients (عملاؤنا)
+
+Ministry of Justice (وزارة العدل), Al Madinah Region Development Authority (هيئة تطوير منطقة المدينة المنورة), stc, Boston Consulting Group (BCG), Jeddah Transport Company (شركة مواصلات جدة), Tamkeen Technologies, Taibah Valley (وادي طيبة), Rua Al Madinah Holding (رؤى المدينة القابضة), Perform IT
+
+## Team certifications (شهادات الفريق)
+
+- AWS Certified Solutions Architect – Professional (Amazon Web Services)
+- Oracle Cloud Infrastructure Architect Professional (Oracle)
+- Google Cloud Professional Cloud DevOps Engineer (Google Cloud)
+- Certified Ethical Hacker – CEH (EC-Council)
+- Certified Kubernetes Administrator – CKA (CNCF / Linux Foundation)
+- Project Management Professional – PMP (PMI)
+- Atlassian Certified Professional – Jira Administrator (Atlassian)
+- Red Hat Certified Engineer – RHCE (Red Hat)
+- Prosci Certified Advanced Change Practitioner (Prosci)
+
+## Optional
+
+- [QR kiosk](https://arribatt.sa/qr): Internal kiosk page — not for indexing or citation
+- Forms host: https://qr.arribatt.sa/ — job, contact, and supplier forms; not the marketing site
